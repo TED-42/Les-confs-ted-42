@@ -5,19 +5,19 @@
 
 * **Lundi 4 Avril 2022** : 16h00
 *Durée 15-20 minutes.*
-* **Objectifs :**
-On fait le point !
+	* **Objectifs :**  
+	On fait le point !
 
 * **Mardi 5 Avril 2022** : 16h00
 *Durée environ 30 minutes.*
-* **Objectifs :**  
-Structuration de la préparation à la conférence.  
-Trouver toute la documentation possible + échanges + trouver des codes a debug.
+	* **Objectifs :**  
+	Structuration de la préparation à la conférence.  
+	Trouver toute la documentation possible + échanges + trouver des codes a debug.
 
 * **Mercredi 6, Jeudi 7 et Vendredi 8 Avril 2022** : 16h00
 *Durée environ 1 heure.*
-* **Objectifs :**
-On met en pratique la conférence, ajustement techniques, tests lumière + vidéos, conseils et outils p2p de TED42.
+	* **Objectifs :**  
+	On met en pratique la conférence, ajustement techniques, tests lumière + vidéos, conseils et outils p2p de TED42.
 
 
 ### Dates de la première conf TED42 :
