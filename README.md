@@ -2,6 +2,7 @@
 # TED42
 ## Les conférences et rencontres de l'ècole 42 d'Angoulêmes
 
+Prenez le train, on monte ensemble level 21!
 
 ### Objectifs:
 ==============
@@ -18,10 +19,11 @@
 
 ## idées prochaines conférences
 
-Hésitez pas à proposer vos idées, vos besoins et vos connaissances que vous souhaiteriez partager à la promo.
-
-Prenez le train, on monte ensemble level 21!
-
 * Architecture machine
 * Reseaux, Système...
-* Conf
+
+## outils de travail
+
+Hésitez pas à proposer vos idées, vos besoins et vos connaissances que vous souhaiteriez partager à la promo.
+
+* Discord de TED42
