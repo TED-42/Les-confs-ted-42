@@ -1,15 +1,8 @@
 
-# TED42
+# TED-42
 ## Les conférences et rencontres de l'ècole 42 d'Angoulêmes
 
 Prenez le train, on monte ensemble level 21!
-
-### Objectifs:
-==============
-* Faire l'expérience à plusieurs de maitriser de nouveaux outils grâce au peer to peer et en travail de groupe.
-* Savoir déboguer du code mieux que n'importe qui.
-* Echanger et confronter des points de vues pour le meilleurs et pour le pire !
-* Transmettre son expérience et son savoir a toutes la promotion lors d'une conférence.
 
 
 ## Conférences
@@ -30,4 +23,4 @@ Hésitez pas à proposer vos idées, vos besoins et vos connaissances que vous s
 
 a venir :
 
-* Discord de TED42
+* Discord de TED-42
