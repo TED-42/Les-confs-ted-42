@@ -1,4 +1,4 @@
-# Conférence #01 de TED-42
+# Conférence #01 de BRIEF-42
 ## Une introduction à GDB et à Valgrind
 
 ```

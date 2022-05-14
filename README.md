@@ -7,14 +7,15 @@ Prenez le train, on monte ensemble level 21!
 
 ## Conférences
 
-* [00 - Une introduction à GDB et Valgrind](00_introduction_gdb_valgrind.md) - 13/14 Avril 2022
-
+* [01 - Une introduction à GDB et Valgrind](01_introduction_gdb_valgrind.md) - 13/14 Avril 2022
+* [02 - Liste chainee et operation binaires](02_liste_chaine_operation_binaire.md) - 8 Mai 2022
 
 ## idées prochaines conférences
 
 * Architecture ordinateur...
 * Reseaux, Système...
 * Histoire tech...
+* graphisme, minilibx
 
 
 ## outils de travail
